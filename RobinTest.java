@@ -1,5 +1,5 @@
 // Round Robin Scheduling Algorithm 
-// By Ishrat Mowla
+// By Ishrat Mowla & Sekani Millette
 
 import java.util.*;
 
